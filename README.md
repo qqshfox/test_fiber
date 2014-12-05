@@ -1,6 +1,6 @@
 # Two examples to reproduce a fiber issue only with `autoload`
 
-1. Those two examples works on 1.9.3.
+1. Those two examples work on 1.9.3.
 2. Those two examples throw an exception `fiber called across stack rewinding barrier (FiberError)` on 2.0+
 
 ## Example 1
